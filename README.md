@@ -33,7 +33,3 @@ inviteRegex().test('https://discord.gg/2JY79nd');
 ## Support Me
 
 Give a ⭐️ if this project helped you!
-
-<a href="https://www.patreon.com/tjrgg">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="120">
-</a>
