@@ -1,0 +1,37 @@
+{
+	"name": "invite-regex",
+	"description": "Regular expression for matching Discord invite URLs",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": {
+		"name": "Tyler Richards",
+		"email": "hello@tjrgg.xyz"
+	},
+	"repository": "github:tjrgg/invite-regex",
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"files": [
+		"src/"
+	],
+	"keywords": [
+		"regex",
+		"string",
+		"discord",
+		"discordapp"
+	],
+	"scripts": {
+		"lint": "xo",
+		"lint:fix": "xo --fix",
+		"test": "ava"
+	},
+	"devDependencies": {
+		"ava": "^2.4.0",
+		"eslint-config-tjr": "^1.0.2",
+		"xo": "^0.25.3"
+	},
+	"xo": {
+		"extends": "tjr",
+		"space": false
+	}
+}
