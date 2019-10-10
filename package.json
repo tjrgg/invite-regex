@@ -1,7 +1,7 @@
 {
 	"name": "invite-regex",
 	"description": "Regular expression for matching Discord invite URLs",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"author": {
 		"name": "Tyler Richards",
