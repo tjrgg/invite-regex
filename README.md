@@ -1,6 +1,6 @@
 <h1 align="center">invite-regex</h1>
 <p>
-	<img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+	<img src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
 	<a href="https://twitter.com/tjrgg">
 		<img alt="Twitter: tjrgg" src="https://img.shields.io/twitter/follow/tjrgg.svg?style=social" target="_blank" />
 	</a>
